@@ -2,7 +2,7 @@
 
 #Presentation
 
-The application allows you to find the population of each place in Spain.
+The application allows you to find number of inhabitants in each place in Spain.
 
 ## Getting Started
 
