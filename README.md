@@ -1,10 +1,8 @@
 # GeografiaIonicExpressSequelize
-# Project Title
+# Full stack example with Ionic + Express + Sequeliza + MYSQL
 
-One Paragraph of the project description
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+It´s just that: A full stack example with Ionic + Express + Sequeliza + MYSQL
 
 ## Getting Started
 
