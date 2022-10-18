@@ -49,4 +49,4 @@ $ Ionic serve
 
 ### Postman
 
-
+https://documenter.getpostman.com/view/23349505/2s847HPYQq
